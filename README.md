@@ -22,6 +22,15 @@ This project is a simplified IMDb clone that allows users to browse and interact
 
 ---
 
+## Screenshots
+
+![m1](https://github.com/user-attachments/assets/1d183b72-4154-4340-b823-6d5e38dd1a82)
+
+![m3](https://github.com/user-attachments/assets/c822ae38-3e49-49c9-b99b-5cdf6dc1f496)
+
+
+![m4](https://github.com/user-attachments/assets/b399486f-17ae-4950-ab8c-7a57919a8c73)
+
 ## Installation
 
 ### 1. Clone this repository:
@@ -32,14 +41,7 @@ npm install
 VITE_TMDB_API_KEY=your_tmdb_api_key
 npm run dev
 
-## Screenshots
 
-![m1](https://github.com/user-attachments/assets/1d183b72-4154-4340-b823-6d5e38dd1a82)
-
-![m3](https://github.com/user-attachments/assets/c822ae38-3e49-49c9-b99b-5cdf6dc1f496)
-
-
-![m4](https://github.com/user-attachments/assets/b399486f-17ae-4950-ab8c-7a57919a8c73)
 
 
 ## React + Vite
